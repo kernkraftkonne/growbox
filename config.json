@@ -1,0 +1,8 @@
+{
+    "SSID": "",
+    "PASSWORD": "",
+    "MQTT_BROKER": "core-mosquitto",
+    "MQTT_PORT": 1883,
+    "MQTT_USER": "mqtt-user",
+    "MQTT_PASSWORD": "mqtt-user"
+}
