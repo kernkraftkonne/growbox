@@ -1,8 +1,8 @@
 {
-    "SSID": "",
-    "PASSWORD": "",
+    "SSID": "ZYXEL-768",
+    "PASSWORD": "0743886290452312",
     "MQTT_BROKER": "core-mosquitto",
     "MQTT_PORT": 1883,
     "MQTT_USER": "mqtt-user",
-    "MQTT_PASSWORD": "mqtt-user"
+    "MQTT_PASSWORD": "@Homeassistant.!+06"
 }

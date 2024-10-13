@@ -23,7 +23,7 @@ MQTT_USER = config['MQTT_USER']
 MQTT_PASSWORD = config['MQTT_PASSWORD']
 
 # Initialize the DHT22 sensor
-dht_sensor = dht.DHT22(Pin(27))
+dht_sensor = dht.DHT22(Pin(21))
 
 # LED setup for indicating status
 led = Pin(2, Pin.OUT)
